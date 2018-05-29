@@ -6,3 +6,9 @@ for(int i=0;i<size();i++){
 //"Ne znam shto ne raboti...sedqh do 4-chasa zaradi tova" 
     -Ivan Draganov 2k17
 /-----------------------------------------
+e az vupros da pitam
+:d
+tia Hand,Deck,card se extendvat edno s drugo nali
+i deckfactory implementva deck
+?
+/-----------------------------------------
